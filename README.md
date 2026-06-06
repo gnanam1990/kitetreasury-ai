@@ -8,6 +8,12 @@ This repository is built from the staged OpenCode prompt pack in `prompts/`.
 
 Run an AI-assisted treasury workspace for balances, spend approvals, forecasts, anomalies, and exports.
 
+## Proof of Work
+
+- Live Vercel deployment: https://kitetreasury-ai.vercel.app
+- Public proof report: [docs/PROOF_OF_WORK.md](docs/PROOF_OF_WORK.md)
+- Rendered screenshot: [docs/screenshot.jpg](docs/screenshot.jpg)
+
 ## Core modules
 
 - **Treasury Dashboard** — Unified balance, spend, agent, and transaction overview.
