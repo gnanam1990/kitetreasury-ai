@@ -12,7 +12,9 @@
   },
   "dependencies": {
     "@hono/node-server": "^1.19.6",
+    "@kitetreasury-ai/connectors": "workspace:*",
     "@kitetreasury-ai/core": "workspace:*",
+    "@kitetreasury-ai/worker": "workspace:*",
     "hono": "^4.10.7"
   },
   "devDependencies": {
